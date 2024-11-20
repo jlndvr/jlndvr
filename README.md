@@ -7,8 +7,9 @@
 - <b>Data Managment Projects(C++)</b>
   - [Candidate Linked List Manager](https://github.com/jlndvr/Candidate-Linked-List-Manager)
   - [Candidate Dequeue Manager](https://github.com/jlndvr/Candidate-Dequeue-Manager)
-- <b>Trivia Game(C++)</b>
+- <b>More Projects(C++)</b>
   - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
+  - [Distance of a Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
     
 <h2>📺 Popular YouTube Videos</h2>
 
