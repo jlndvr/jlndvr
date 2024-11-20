@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer Science Undergraduate at UTRGV🤠</a> <a href="https://www.linkedin.com/in/jlndvr/"></a></h1>
+<h1>Hi, I'm Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer Science Student at UTRGV🤠</a> <a href="https://www.linkedin.com/in/jlndvr/"></a></h1>
 <a>Expected graduation : 2026</a>
 <h2> 👨‍💻 Software Development Projects:</h2>
 
