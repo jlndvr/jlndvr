@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (C++)</b>
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
-- <b>Data Managment Projects (C++)</b>
+- <b>Data Management Projects (C++)</b>
   - [Candidate Linked List Manager](https://github.com/jlndvr/Candidate-Linked-List-Manager)
   - [Candidate Dequeue Manager](https://github.com/jlndvr/Candidate-Dequeue-Manager)
 - <b>More Projects (C++)</b>
