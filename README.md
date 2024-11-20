@@ -1,5 +1,7 @@
 <h1>Hi, I'm Josue Landaverde! <br/><a href="https://github.com/jlndvr">Computer Science Undergraduate</a> <a href="https://www.linkedin.com/in/jlndvr/"></a></h1>
+
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>Data Structures and Algorithms Practice(C++)</b>
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
 - <b>Data Managment Projects(C++)</b>
