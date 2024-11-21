@@ -3,6 +3,9 @@
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
+- <b> LeetCode and HackerRank </b>
+ - [LeetCode](https://github.com/jlndvr/LeetCode)
+ - [HackerRank](https://github.com/jlndvr/HackerRank)
 - <b>📊 Data Structures and Algorithms Practice (C++)</b>
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
 - <b>📊 Data Management Projects (C++)</b>
