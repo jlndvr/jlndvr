@@ -1,7 +1,7 @@
 <h1>Hi, I'm Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer Science Student at UTRGV🤠</a> <a href="https://www.linkedin.com/in/jlndvr/"></a></h1>
 <a>🇲🇽 First Gen 🇪🇸</a>
 
-<h1> LeetCode HackerRank </h1>
+<h3> LeetCode HackerRank </h3>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
