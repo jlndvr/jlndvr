@@ -4,7 +4,7 @@
 <h2> 👨‍💻 Software Development Projects:</h2>
 
 - <b>📊 Data Management Projects (C++)</b>
-  - [ispent](https://github.com/jlndvr/ispent)
+  - [iSpent](https://github.com/jlndvr/ispent)
   - [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
   - [CandidateHub](https://github.com/jlndvr/Candidate-Linked-List-Manager)
 - <b>📊 Data Structures and Algorithms Practice (C++)</b>
