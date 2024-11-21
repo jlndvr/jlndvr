@@ -2,10 +2,7 @@
 <a>🇲🇽 First Gen 🇪🇸</a>
 
 - <h3>🖥️ LeetCode and HackerRank</h3>
-
-- <b>LeetCode</b>
   - [LeetCode](https://github.com/jlndvr/LeetCode) 
-- <b>HackerRank</b>
   - [HackerRank](https://github.com/jlndvr/HackerRank)
   
 <h2> 👨‍💻 Software Development Projects:</h2>
