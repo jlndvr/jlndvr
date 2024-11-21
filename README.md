@@ -2,7 +2,7 @@
 <a>🇲🇽 First Gen 🇪🇸</a>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
-- [HackerRank](https://github.com/jlndvr/HackerRank)
+
 - <b>📊 Data Structures and Algorithms Practice (C++)</b>
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
 - <b>📊 Data Management Projects (C++)</b>
