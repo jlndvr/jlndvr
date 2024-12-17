@@ -10,6 +10,7 @@
 - <b>📊 Data Structures and Algorithms Practice (C++)</b>
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
 - <b>🔨 More Projects (C++)</b>
+  - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
   - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
   - [Distance of a Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
 
