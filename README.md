@@ -7,13 +7,13 @@
   - [iSpent](https://github.com/jlndvr/ispent)
   - [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
   - [CandidateHub](https://github.com/jlndvr/Candidate-Linked-List-Manager)
-- <b>📊 Data Structures and Algorithms Practice (C++)</b>
-  - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
+- <b>📊 Data Structures And Algorithms Practice (C++)</b>
+  - [Data Structures And Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
   - [Least To Greatest](https://github.com/jlndvr/Least-to-Greatest)
 - <b>🔨 More Projects (C++)</b>
   - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
   - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
-  - [Distance of a Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
+  - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
 
 <h3>🖥️ LeetCode and HackerRank </h3>
 
