@@ -3,11 +3,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h3>Object-Oriented Programming in Java</h3>
-<p>
-  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java logo"/> <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
-</p>
-
+<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
+<b>Object-Oriented Programming in Java</b><br>
+ <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
+ 
 <div style="clear:both;"></div>
 
 <h3>Data Management Projects</h3>
