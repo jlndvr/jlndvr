@@ -22,7 +22,7 @@
 
 <h3>API Projects 📡</h3>
 <ul>
-<p>Coming soon...</p>
+<li><a>Coming soon...</a></li>
 </ul>
 
 <h3>🔨 More Projects (C++)</h3>
