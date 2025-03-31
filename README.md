@@ -3,7 +3,7 @@
 <h2> 👨‍💻 Software Development Projects:</h2>
 
 <b>Object Oriented Programming in Java</b><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-- [OOP labs in Java](https://github.com/jlndvr/Java-REPO)
+  - [OOP labs in Java](https://github.com/jlndvr/Java-REPO)
 
 - <b>📊 Data Management Projects (C++)</b>
   - [iSpent](https://github.com/jlndvr/ispent)
