@@ -1,5 +1,6 @@
 <h1>Hello, I am Josue Landaverde!</h1>
-### <span style="color: orange;">📚 Computer science student at UTRGV 🤠</span>
+
+<h3 style="color: orange;">📚 Computer science student at UTRGV 🤠</h3>
 
 <h2>💻 Dev Portfolio:  Projects and Learning 📕</h2>
 
