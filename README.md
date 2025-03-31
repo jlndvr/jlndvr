@@ -1,7 +1,7 @@
 <h1>Hi, I am Josue Landaverde!<br/>
 <a href="https://github.com/jlndvr">📚 Computer science student at UTRGV 🤠</a></h1>
 
-<h2>💻 Software Development: Projects and Learning 🤓</h2>
+<h2>💻 Dev Portfolio: Projects and Learning 🤓</h2>
 
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming in Java</h3>
