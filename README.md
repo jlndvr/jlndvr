@@ -7,14 +7,14 @@
 <b>Object-Oriented Programming in Java</b><br>
 <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
  
-<h3>Data Management Projects</h3>
+<h3>📊 Data Management Projects</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/ispent">iSpent</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub</a></li>
 </ul>
 
-<h3>Data Structures and Algorithms Practice (C++)</h3>
+<h3>📊 Data Structures and Algorithms Practice (C++)</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms</a></li>
   <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest</a></li>
