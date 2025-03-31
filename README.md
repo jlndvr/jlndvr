@@ -11,12 +11,12 @@
  
 <h3>📊 Data Management Projects</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/ispent">iSpent</a></li>
-  <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack</a></li>
-  <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub</a></li>
+  <li><a href="https://github.com/jlndvr/ispent">iSpent C++</a></li>
+  <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack C++</a></li>
+  <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub C++</a></li>
 </ul>
 
-<h3>📊 Data Structures and Algorithms Practice (C++)</h3>
+<h3>📊 Data Structures and Algorithms Practice</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms</a></li>
   <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest</a></li>
@@ -27,11 +27,11 @@
 <li><a>Coming soon...</a></li>
 </ul>
 
-<h3>🔨 More Projects (C++)</h3>
+<h3>🔨 More Projects</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/Autocompleter-BST">Autocompleter</a></li>
-  <li><a href="https://github.com/jlndvr/Save-Oracle">Save Oracle</a></li>
-  <li><a href="https://github.com/jlndvr/Distance-of-a-Lightning-Strike">Distance From A Lightning Strike</a></li>
+  <li><a href="https://github.com/jlndvr/Autocompleter-BST">Autocompleter C++</a></li>
+  <li><a href="https://github.com/jlndvr/Save-Oracle">Save Oracle C++</a></li>
+  <li><a href="https://github.com/jlndvr/Distance-of-a-Lightning-Strike">Distance From A Lightning Strike C++</a></li>
 </ul>
 
 <h2>🖥️ LeetCode and HackerRank</h2>
