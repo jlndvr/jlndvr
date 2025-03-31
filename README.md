@@ -16,10 +16,10 @@
   <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub C++</a></li>
 </ul>
 
-<h3>📊 Data Structures and Algorithms Practice</h3>
+<h3>📊 Data Structures and Algorithms</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms</a></li>
-  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest</a></li>
+  <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms C++</a></li>
+  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest C++</a></li>
 </ul>
 
 <h3>API Projects 📡</h3>
