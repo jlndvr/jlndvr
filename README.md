@@ -1,6 +1,7 @@
 <h1>Hi, I am Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer science student at UTRGV🤠</a></h1>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
+
 - <b>Object Oriented Programming in Java</b><img align="left" alt="JosueLandaverde" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
   - [Labs](https://github.com/jlndvr/Java-REPO)
 - <b>📊 Data Management Projects (C++)</b>
@@ -16,6 +17,7 @@
   - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
   - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
   - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
+
 <h3>🖥️ LeetCode and HackerRank </h3>
 
   - [LeetCode](https://github.com/jlndvr/LeetCode) [HackerRank](https://github.com/jlndvr/HackerRank)
