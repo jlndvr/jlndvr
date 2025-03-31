@@ -14,12 +14,12 @@
   <li><a href="https://github.com/jlndvr/ispent">iSpent C++</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack C++</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub C++</a></li>
+  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest C++</a></li>
 </ul>
 
 <h3>📊 Data Structures and Algorithms</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms C++</a></li>
-  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest C++</a></li>
 </ul>
 
 <h3>API Projects 📡</h3>
