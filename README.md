@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer science student at UTRGV🤠</a></h1>
+<h1>Hi, I am Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer science student at UTRGV🤠</a></h1>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
