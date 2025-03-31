@@ -7,25 +7,12 @@
 <b>Object-Oriented Programming in Java</b><br>
  <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
 
-<img width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-<img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/><h3>Data Management Projects</h3>
+<h3>Data Management Projects</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/ispent">iSpent</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub</a></li>
 </ul>
-<style>
-  .project-header {
-    display: flex;
-    align-items: center;
-    gap: 8px; /* space between elements */
-    margin-bottom: 10px; /* space before the list */
-  }
-  .project-header h3 {
-    margin: 0; /* removes default margin */
-  }
-</style>
-
 <h3>Data Structures and Algorithms Practice (C++)</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms</a></li>
