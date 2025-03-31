@@ -1,4 +1,4 @@
-<h1>Hello, I am Josue Landaverde!<br/></h1>
+<h1>Hello, I am Josue Landaverde!</h1>
 <h3>📚 Computer science student at UTRGV 🤠</h3>
 
 <h2>💻 Dev Portfolio:  Projects and Learning 📕</h2>
