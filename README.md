@@ -7,10 +7,8 @@
 <b>Object-Oriented Programming in Java</b><br>
  <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
 
-<div class="project-header">
-  <img width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-  <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/><h3>Data Management Projects</h3>
-</div>
+<img width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
+<img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/><h3>Data Management Projects</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/ispent">iSpent</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack</a></li>
