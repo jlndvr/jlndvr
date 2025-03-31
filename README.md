@@ -17,6 +17,8 @@
   - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
 - <b>Object Oriented Programming in Java</b>
 - [Labs]()
+- <b>Object Oriented Programming in Java</b>
+[<img align="left" alt="JosueLandaverde | Java" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />][Java]
 <h3>🖥️ LeetCode and HackerRank </h3>
 
   - [LeetCode](https://github.com/jlndvr/LeetCode) [HackerRank](https://github.com/jlndvr/HackerRank)
