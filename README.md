@@ -6,7 +6,7 @@
 <b>Object-Oriented Programming in Java</b><br>
  <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
  
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png![image](https://github.com/user-attachments/assets/0fc7fe27-fd61-4a8d-aa68-d37fa593cd2c)"/>
+<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="By Jeremy Kratz - <a rel="nofollow" class="external free" href="https://github.com/isocpp/logos">https://github.com/isocpp/logos</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=62851110">Link</a>"/>
 <b>📊 Data Management Projects</b>
   - [iSpent](https://github.com/jlndvr/ispent)
   - [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
