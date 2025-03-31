@@ -25,7 +25,7 @@
 <p>Coming soon...</p>
 </ul>
 
-<h3>More Projects (C++)</h3>
+<h3>🔨 More Projects (C++)</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/Autocompleter-BST">Autocompleter</a></li>
   <li><a href="https://github.com/jlndvr/Save-Oracle">Save Oracle</a></li>
