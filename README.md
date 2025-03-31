@@ -4,7 +4,7 @@
 
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <b>Object-Oriented Programming in Java</b><br>
- <a href="https://github.com/jlndvr/Java-REPO">OOP Labs in Java</a>
+ <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
 
 - <b>📊 Data Management Projects (C++)</b>
   - [iSpent](https://github.com/jlndvr/ispent)
