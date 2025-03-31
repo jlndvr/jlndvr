@@ -44,6 +44,5 @@
 <p>
   <a href="https://www.linkedin.com/in/jlndvr">
     <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn logo"/>
-    LinkedIn
   </a>
 </p>
