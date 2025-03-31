@@ -1,37 +1,54 @@
-<h1>Hi, I am Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer science student at UTRGV🤠</a></h1>
+<h1>Hi, I am Josue Landaverde!<br/>
+<a href="https://github.com/jlndvr">📚 Computer science student at UTRGV 🤠</a></h1>
 
-<h2> 👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-<b>Object-Oriented Programming in Java</b><br>
- <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
- 
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png![image](https://github.com/user-attachments/assets/0fc7fe27-fd61-4a8d-aa68-d37fa593cd2c)" />
-- <b>📊 Data Management Projects </b>
-  - [iSpent](https://github.com/jlndvr/ispent)
-  - [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
-  - [CandidateHub](https://github.com/jlndvr/Candidate-Linked-List-Manager)
-- <b>📊 Data Structures and Algorithms Practice (C++)</b>
-  - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
-  - [Least To Greatest](https://github.com/jlndvr/Least-to-Greatest)
-- <b>API Projects📡</b>
-- [Coming soon...]()
-- <b>🔨 More Projects (C++)</b>
-  - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
-  - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
-  - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
+<h3>Object-Oriented Programming in Java</h3>
+<p>
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java logo"/>
+  <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
+</p>
 
-<h3>🖥️ LeetCode and HackerRank </h3>
+<div style="clear:both;"></div>
 
-  - [LeetCode](https://github.com/jlndvr/LeetCode) [HackerRank](https://github.com/jlndvr/HackerRank)
-    
-<h2> 🤳 Connect with me :</h2>
+<h3>Data Management Projects</h3>
+<p>
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java logo"/>
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/>
+  <div style="clear:both;"></div>
+  <ul>
+    <li><a href="https://github.com/jlndvr/ispent">iSpent</a></li>
+    <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack</a></li>
+    <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub</a></li>
+  </ul>
+</p>
 
-[<img align="left" alt="JosueLandaverde | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+<h3>Data Structures and Algorithms Practice (C++)</h3>
+<ul>
+  <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms</a></li>
+  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest</a></li>
+</ul>
 
-[linkedin]: https://www.linkedin.com/in/jlndvr
+<h3>API Projects 📡</h3>
+<p>Coming soon...</p>
 
-<!---
-jlndvr/jlndvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>More Projects (C++)</h3>
+<ul>
+  <li><a href="https://github.com/jlndvr/Autocompleter-BST">Autocompleter</a></li>
+  <li><a href="https://github.com/jlndvr/Save-Oracle">Save Oracle</a></li>
+  <li><a href="https://github.com/jlndvr/Distance-of-a-Lightning-Strike">Distance From A Lightning Strike</a></li>
+</ul>
+
+<h2>🖥️ LeetCode and HackerRank</h2>
+<ul>
+  <li><a href="https://github.com/jlndvr/LeetCode">LeetCode</a></li>
+  <li><a href="https://github.com/jlndvr/HackerRank">HackerRank</a></li>
+</ul>
+
+<h2>🤳 Connect with me:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/jlndvr">
+    <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn logo"/>
+    LinkedIn
+  </a>
+</p>
