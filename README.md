@@ -1,5 +1,5 @@
 <h1>Hello, I am Josue Landaverde!<br/>
-<a href="https://github.com/jlndvr">📚 Computer science student at UTRGV 🤠</a></h1>
+<a📚 Computer science student at UTRGV 🤠</a></h1>
 
 <h2>💻 Dev Portfolio:  Projects and Learning 📕</h2>
 
