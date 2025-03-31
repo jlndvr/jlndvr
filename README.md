@@ -1,37 +1,36 @@
-<h1>Hi, I am Josue Landaverde!<br/><a href="https://github.com/jlndvr">📚Computer science student at UTRGV🤠</a></h1>
+# Hi, I am Josue Landaverde!  
+[📚 Computer science student at UTRGV 🤠](https://github.com/jlndvr)
 
-<h2> 👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects:
 
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
-<b>Object-Oriented Programming in Java</b><br>
- <a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
- 
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/devicon/cplusplus.svg"/>
-<b>📊 Data Management Projects</b>
-  - [iSpent](https://github.com/jlndvr/ispent)
-  - [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
-  - [CandidateHub](https://github.com/jlndvr/Candidate-Linked-List-Manager)
-- <b>📊 Data Structures and Algorithms Practice (C++)</b>
-  - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
-  - [Least To Greatest](https://github.com/jlndvr/Least-to-Greatest)
-- <b>API Projects📡</b>
-- [Coming soon...]()
-- <b>🔨 More Projects (C++)</b>
-  - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
-  - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
-  - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
+**Object-Oriented Programming in Java**  
+[Practice Labs](https://github.com/jlndvr/Java-REPO)
 
-<h3>🖥️ LeetCode and HackerRank </h3>
+<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
+<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/devicon/cplusplus.svg"/>
+**📊 Data Management Projects**  
+- [iSpent](https://github.com/jlndvr/ispent)
+- [StaffTrack](https://github.com/jlndvr/Candidate-Dequeue-Manager)
+- [CandidateHub](https://github.com/jlndvr/Candidate-Linked-List-Manager)
 
-  - [LeetCode](https://github.com/jlndvr/LeetCode) [HackerRank](https://github.com/jlndvr/HackerRank)
-    
-<h2> 🤳 Connect with me :</h2>
+**📊 Data Structures and Algorithms Practice (C++)**  
+- [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
+- [Least To Greatest](https://github.com/jlndvr/Least-to-Greatest)
 
-[<img align="left" alt="JosueLandaverde | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+**📡 API Projects**  
+- [Coming soon...](#)
 
-[linkedin]: https://www.linkedin.com/in/jlndvr
+**🔨 More Projects (C++)**  
+- [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
+- [Save Oracle](https://github.com/jlndvr/Save-Oracle)
+- [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
 
-<!---
-jlndvr/jlndvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🖥️ LeetCode and HackerRank:
+
+- [LeetCode](https://github.com/jlndvr/LeetCode)  
+- [HackerRank](https://github.com/jlndvr/HackerRank)
+
+## 🤳 Connect with me:
+
+[![JosueLandaverde | LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/jlndvr)
