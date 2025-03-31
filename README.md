@@ -5,7 +5,9 @@
 
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming in Java</h3>
-<a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a>
+<ul>
+<li><a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a></li>
+</ul>
  
 <h3>📊 Data Management Projects</h3>
 <ul>
