@@ -9,8 +9,7 @@
  
 <div style="clear:both;"></div>
 
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/>
-<h3> Data Management Projects</h3>
+<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" /> <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo"/> <h3> Data Management Projects</h3>
 <p>
   <div style="clear:both;"></div>
   <ul>
