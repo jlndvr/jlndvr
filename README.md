@@ -10,13 +10,11 @@
   - [Data Structures and Algorithms](https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-)
   - [Least To Greatest](https://github.com/jlndvr/Least-to-Greatest)
 - <b>API Projects</b>
-- [Soon...]()
+- [Coming soon...]()
 - <b>🔨 More Projects (C++)</b>
   - [Autocompleter](https://github.com/jlndvr/Autocompleter-BST)
   - [Save Oracle](https://github.com/jlndvr/Save-Oracle)
   - [Distance From A Lightning Strike](https://github.com/jlndvr/Distance-of-a-Lightning-Strike)
-- <b>Object Oriented Programming in Java</b>
-- [Labs]()
 - <b>Object Oriented Programming in Java</b>
 [<img align="left" alt="JosueLandaverde | Java" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />][Java]
 <h3>🖥️ LeetCode and HackerRank </h3>
