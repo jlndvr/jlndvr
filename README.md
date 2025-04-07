@@ -10,17 +10,14 @@
 <li><a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a></li>
 </ul>
  
-<h3>C++</h3>
+<h3>📊 Data Management Projects</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/ispent">iSpent C++</a></li>
-  <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack C++</a></li>
-  <li><a href="https://github.com/jlndvr/Candidate-Linked-List-Manager">CandidateHub C++</a></li>
-  <li><a href="https://github.com/jlndvr/Least-to-Greatest">Least To Greatest C++</a></li>
+  <li><a>Currently under maintenance...🐢</a></li>
 </ul>
 
 <h3>📊 Data Structures and Algorithms</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/Data-Structures-and-Algorithms-Practice-">Data Structures and Algorithms C++</a></li>
+  <li><a>Currently under maintenance...🐢</a></li>
 </ul>
 
 <h3>API Projects 📡</h3>
@@ -30,9 +27,7 @@
 
 <h3>🔨 More Projects</h3>
 <ul>
-  <li><a href="https://github.com/jlndvr/Autocompleter-BST">Autocompleter C++</a></li>
-  <li><a href="https://github.com/jlndvr/Save-Oracle">Save Oracle C++</a></li>
-  <li><a href="https://github.com/jlndvr/Distance-of-a-Lightning-Strike">Distance From A Lightning Strike C++</a></li>
+  <li><a>Currently under maintenance...🐢</a></li>
 </ul>
 
 <h2>🖥️ LeetCode and HackerRank</h2>
