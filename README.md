@@ -10,7 +10,7 @@
 <li><a href="https://github.com/jlndvr/Java-REPO">Practice Labs</a></li>
 </ul>
  
-<h3>C➕➕</h3>
+<h3>C++</h3>
 <ul>
   <li><a href="https://github.com/jlndvr/ispent">iSpent C++</a></li>
   <li><a href="https://github.com/jlndvr/Candidate-Dequeue-Manager">StaffTrack C++</a></li>
