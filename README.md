@@ -6,8 +6,8 @@
 
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming in Java</h3>
-<ul>
-<li><a href="https://github.com/jlndvr/Java-REPO">Check me out!</a></li>
+<ul>  
+ <li><a>Currently under maintenance...🐢</a></li>
 </ul>
  
 <h3>📊 Data Management Projects</h3>
