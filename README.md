@@ -7,27 +7,27 @@
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming in Java</h3>
 <ul>  
- <li><a>Currently under maintenance...🐢</a></li>
+ <li><a>Under maintenance...🐢</a></li>
 </ul>
  
 <h3>📊 Data Management Projects</h3>
 <ul>
-  <li><a>Currently under maintenance...🐢</a></li>
+  <li><a>Under maintenance...🐢</a></li>
 </ul>
 
 <h3>📊 Data Structures and Algorithms</h3>
 <ul>
-  <li><a>Currently under maintenance...🐢</a></li>
+  <li><a>Under maintenance...🐢</a></li>
 </ul>
 
 <h3>API Projects 📡</h3>
 <ul>
-<li><a>Coming soon...</a></li>
+<li><a>Under maintenance...🐢</a></li>
 </ul>
 
 <h3>🔨 More Projects</h3>
 <ul>
-  <li><a>Currently under maintenance...🐢</a></li>
+  <li><a>Under maintenance...🐢</a></li>
 </ul>
 
 <h2>🖥️ LeetCode and HackerRank</h2>
