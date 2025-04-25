@@ -9,7 +9,7 @@
   <li><a>Under maintenance...🐢</a></li>
 </ul>
 
-<h3>📡 Projects w/API's</h3>
+<h3>📡 Projects w/ API's</h3>
 <ul>
 <li><a>Under maintenance...🐢</a></li>
 </ul>
