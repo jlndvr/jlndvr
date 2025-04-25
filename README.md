@@ -11,7 +11,7 @@
 - 🐢 Under maintenance... (Coming soon!)
 
 #### 🧩 OOP 
-[![Java](https://img.shields.io/badge/Explore-My_Python_Repos-3776AB?style=for-the-badge&logo=python)](https://github.com/jlndvr/Java-REPO)
+[OOP Java](https://github.com/jlndvr/Java-REPO)
 
 #### ⚙️ Algorithms & Data Structures
 - 🐢 Under maintenance... (Coming soon!)
