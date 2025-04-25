@@ -28,4 +28,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
 
-![Josue Landaverde](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical)(https://github.com/jlndvr)
+![Josue Landaverde](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical)
