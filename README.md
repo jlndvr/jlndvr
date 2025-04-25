@@ -5,20 +5,20 @@
 ## 📕 Projcts and Learning
 
 #### 📊 Data Management Projects
-- 🐢 Under maintenance... (Coming soon!)
+- 🐢 Under maintenance...
 
 #### 🌐 API Integrations
-- 🐢 Under maintenance... (Coming soon!)
+- 🐢 Under maintenance...
 
 #### 🧩 Object Oriented Programming coffee ☕️ 
 - [OOP in Java](https://github.com/jlndvr/Java-REPO)
-- OOP in C++()
+- [OOP in C++]()
 
 #### ⚙️ Algorithms & Data Structures
-- 🐢 Under maintenance... (Coming soon!)
+- 🐢 Under maintenance... 
 
 #### 🛠️ More development experience 
-- 🐢 Under maintenance... (Coming soon!)
+- 🐢 Under maintenance...
 
 ## 💻 Coding Challenges
 [![LeetCode](https://img.shields.io/badge/LeetCode-Python_Solutions-FFA116?style=flat-square&logo=leetcode)](https://github.com/jlndvr/LeetCode-Python)
