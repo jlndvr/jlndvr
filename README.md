@@ -31,8 +31,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical&hide_title=true)
 
 ## 💻 LeetCode & HackerRank
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)](https://github.com/jlndvr/LeetCode)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solutions-2EC866?style=for-the-badge&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
+[![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://github.com/jlndvr/LeetCode)
+[![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
