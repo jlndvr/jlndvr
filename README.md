@@ -1,25 +1,22 @@
-# 👋 Hello, I'm Josue!
+# 👋 Hello, I'm Josue Landaverde!
 
 ### 🤠 Computer Science Student @ UTRGV
 
-## 🐍 Python Developer Portfolio
-
-### 📂 Project Categories
 
 #### 📊 Data Management Projects
-- `🐍` Under maintenance... (Coming soon!)
+- 🐢 Under maintenance... (Coming soon!)
 
 #### 🌐 API Integrations
-- `🐍` Under maintenance... (Coming soon!)
+- 🐢 Under maintenance... (Coming soon!)
 
-#### 🧩 OOP in Python
+#### 🧩 OOP 
 [![Python Projects](https://img.shields.io/badge/Explore-My_Python_Repos-3776AB?style=for-the-badge&logo=python)](https://github.com/jlndvr/Python-REPO)
 
 #### ⚙️ Algorithms & Data Structures
-- `🐍` Under maintenance... (Coming soon!)
+- 🐢 Under maintenance... (Coming soon!)
 
-#### 🛠️ Other Projects
-- `🐍` Under maintenance... (Coming soon!)
+#### 🛠️ More Projects
+- 🐢 Under maintenance... (Coming soon!)
 
 ## 💻 Coding Challenges
 [![LeetCode](https://img.shields.io/badge/LeetCode-Python_Solutions-FFA116?style=flat-square&logo=leetcode)](https://github.com/jlndvr/LeetCode-Python)
