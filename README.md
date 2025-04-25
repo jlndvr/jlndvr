@@ -35,5 +35,5 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solutions-2EC866?style=for-the-badge&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
 
 ## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
+[![GitHub](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
