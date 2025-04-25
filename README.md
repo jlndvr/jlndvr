@@ -14,7 +14,7 @@
 #### ⚙️ Algorithms & Data Structures
 - 🐢 Under maintenance... (Coming soon!)
 
-#### 🛠️ More experience 
+#### 🛠️ More development experience 
 - 🐢 Under maintenance... (Coming soon!)
 
 ## 💻 Coding Challenges
