@@ -10,7 +10,7 @@
 #### 🌐 API Integrations
 - 🐢 Under maintenance...
 
-#### 🧩 Object Oriented Programming☕️ 
+#### Object Oriented Programming
 - [OOP in Java](https://github.com/jlndvr/Java-REPO)
 - [OOP in C++]()
 
