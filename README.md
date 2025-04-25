@@ -16,7 +16,7 @@
 
 #### 🧩 Object Oriented Programming
 - [![Java OOP](https://img.shields.io/badge/Java_OOP-Repository-007396?style=flat-square&logo=java)](https://github.com/jlndvr/Java-REPO)
-- [![C++ OOP](https://img.shields.io/badge/C++_OOP-Repository-00599C?style=flat-square&logo=c%2B%2B)]() (Coming Soon)
+- [![C++ OOP](https://img.shields.io/badge/C++_OOP-Repository-00599C?style=flat-square&logo=c%2B%2B)]() 
 
 #### ⚙️ Data Structures & Algorithms 
 - 🐢 Under maintenance... 
