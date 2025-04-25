@@ -2,7 +2,7 @@
 
 #### 🤠 Computer Science Student @ UTRGV
 
-## 📕 Projcts and Learning
+## 📕 Projects and Learning
 
 #### 📊 Data Management Projects
 - 🐢 Under maintenance...
