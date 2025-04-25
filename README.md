@@ -1,5 +1,4 @@
-## 💻 Josue Landaverde: Computer Science undergraduate at The University of Texas Rio Grande Valley
-
+## 💻 Aspiring Software Developer | CS Student @ UTRGV
 ###### General Information: Includes academic and personal projects built during my undergraduate coursework in computer science.
 
 <table>
