@@ -1,6 +1,6 @@
 ### ✌️ I'm Josue, a CS Student at UTRGV !  
 
-###### General Information: The repository showcases experience through software development and design.
+###### General Information: The repository showcases experience through software development.
 
 ## 📕 Dev Portfolio: Projects and Learning
 
