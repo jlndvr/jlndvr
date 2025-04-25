@@ -1,4 +1,4 @@
-## ✌💻 I'm Josue, a CS Student at UTRGV!
+## 💻 I'm Josue, a CS Student at UTRGV!
 
 ###### General Information: Includes academic and personal projects built during my undergraduate coursework in computer science.
 
