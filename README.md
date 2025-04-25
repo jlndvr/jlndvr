@@ -1,6 +1,6 @@
 ## 💻 Josue Landaverde | Computer Science @ UTRGV 🤠 
 
-###### General Information: This repository showcases my programming experience as an undergraduate student. It includes a wide range of projects—from structural learning to independent projects.
+###### General Information: This repository showcases my programming experience as an undergraduate student. 
 
 <table>
   <tr>
