@@ -1,6 +1,6 @@
 ## 💻 Josue Landaverde | Computer Science @ UTRGV 🤠 
 
-###### General Information: Showcases software development and learning throughout the Spring of 2025.
+###### General Information: This repository showcases my programming experience as an undergraduate student. It includes a wide range of projects—from structural lab assignments to group projects and independent real-world problem-solving solutions.
 
 <table>
   <tr>
