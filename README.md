@@ -1,6 +1,6 @@
 ## 💻 Josue Landaverde | Computer Science @ UTRGV 🤠 
 
-###### General Information: This repo showcases academic and personal projects built during my undergraduate coursework.
+###### General Information: This repo is meant to showcase academic and personal projects built throughout Spring 2025.
 
 <table>
   <tr>
