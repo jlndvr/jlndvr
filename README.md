@@ -1,8 +1,8 @@
-## Hello, I'm Josue Landaverde!
+## Hello, I am Josue Landaverde!
 
 ###### General Information: The repository showcases experience through software development and design.
 
-#### 🤠 Computer Science Student @ UTRGV
+###### 🤠 Computer Science Student @ UTRGV
 
 ## 📕 Projects and Learning
 
