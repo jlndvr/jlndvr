@@ -17,7 +17,7 @@
 <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming</h3>
 <ul>  
-  -[Java OOP](https://github.com/jlndvr/Java-REPO)
+  - [Java OOP](https://github.com/jlndvr/Java-REPO)
 </ul>
  
 <h3>📊 Data Structures and Algorithms</h3>
