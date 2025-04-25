@@ -1,6 +1,6 @@
 <h1>👋 Hello, my name is Josue!</h1>
 
-<h3>🤠 Computer Science student at UTRGV</h3>
+<h3>🤠 Computer Science Student at UTRGV</h3>
 
 <h2>📚 Dev Portfolio: Projects and Learning</h2>
 
