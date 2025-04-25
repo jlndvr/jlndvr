@@ -14,12 +14,13 @@
 <li><a>Under maintenance...🐢</a></li>
 </ul>
 
-<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <h3>Object-Oriented Programming</h3>
-<ul>
-  - [Java OOP](https://github.com/jlndvr/Java-REPO)
-</ul>
- 
+<p>
+  <a href="https://github.com/jlndvr/Java-REPO">
+    <img src="https://img.shields.io/badge/Java_OOP-Repository-blue?logo=java" alt="Java OOP Repository">
+  </a>
+</p>
+
 <h3>📊 Data Structures and Algorithms</h3>
 <ul>
   <li><a>Under maintenance...🐢</a></li>
