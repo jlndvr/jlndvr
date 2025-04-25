@@ -15,8 +15,13 @@
 - 🐢 Under maintenance...
 
 #### 🧩 Object Oriented Programming
-- [![Java](https://img.shields.io/badge/Java_OOP--007396?style=flat-square&logo=java)](https://github.com/jlndvr/Java-REPO)
-- [![C++](https://img.shields.io/badge/C++_OOP--00599C?style=flat-square&logo=c%2B%2B)]() 
+<details>
+<summary></summary>
+
+- [![Java](https://img.shields.io/badge/Java_OOP--007396?style=flat-square&logo=java)](https://github.com/jlndvr/Java-REPO)  
+- [![C++](https://img.shields.io/badge/C++_OOP--00599C?style=flat-square&logo=c%2B%2B)]()
+
+</details>
 
 #### ⚙️ Data Structures & Algorithms 
 - 🐢 Under maintenance... 
