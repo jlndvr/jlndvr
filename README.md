@@ -1,4 +1,4 @@
-## 💻 Aspiring Software Development Engineer | Computer Science @ UTRGV
+##💻 Aspiring Software Development Engineer | Computer Science @ UTRGV🤠 
 ###### General Information: Consists of academic and personal projects built during my undergraduate coursework in computer science.
 
 <table>
