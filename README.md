@@ -1,4 +1,4 @@
-## ✌️ I'm Josue, a CS Student at UTRGV !  
+## ✌️ I'm Josue, a CS Student at UTRGV ! 💻   
 
 ###### General Information: The repository showcases experience through software development.
 
