@@ -1,4 +1,4 @@
-### ✌️ I'm Josue, a CS Student at UTRGV !  
+## ✌️ I'm Josue, a CS Student at UTRGV !  
 
 ###### General Information: The repository showcases experience through software development.
 
@@ -14,7 +14,7 @@
 - [OOP in Java](https://github.com/jlndvr/Java-REPO)
 - [OOP in C++]()
 
-#### ⚙️ Algorithms & Data Structures
+#### ⚙️ Data Structures & Algorithms 
 - 🐢 Under maintenance... 
 
 #### 🛠️ More development experience 
