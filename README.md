@@ -1,4 +1,4 @@
-<h1>Hello, my name is Josue!</h1>
+<h1>👋 Hello, my name is Josue!</h1>
 
 <h3>🤠 Computer Science student at UTRGV</h3>
 
