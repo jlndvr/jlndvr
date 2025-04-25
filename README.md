@@ -10,7 +10,7 @@
 #### 🌐 API Integrations
 - 🐢 Under maintenance... (Coming soon!)
 
-#### 🧩 OOP 
+#### 🧩 Object Oriented Programming coffee ☕️ 
 - [OOP Java](https://github.com/jlndvr/Java-REPO)
 
 #### ⚙️ Algorithms & Data Structures
