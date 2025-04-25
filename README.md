@@ -1,4 +1,4 @@
-## 💻 Aspiring Software Developer | CS Student @ UTRGV
+## 💻 Aspiring Software Developer | CS @ UTRGV
 ###### General Information: Includes academic and personal projects built during my undergraduate coursework in computer science.
 
 <table>
