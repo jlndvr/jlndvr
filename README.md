@@ -29,12 +29,7 @@
 ## 📊 GitHub Stats
 ![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlndvr&layout=compact&theme=radical&hide=html,css)
-    </td>
-  </tr>
-</table>
-
-## 💻 Coding Practice
+## 💻 LeetCode & HackerRank
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://github.com/jlndvr/LeetCode)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
 
