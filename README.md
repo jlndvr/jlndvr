@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Josue Landaverde!
 
-### 🤠 Computer Science Student @ UTRGV
-
+#### 🤠 Computer Science Student @ UTRGV
 
 #### 📊 Data Management Projects
 - 🐢 Under maintenance... (Coming soon!)
@@ -15,7 +14,7 @@
 #### ⚙️ Algorithms & Data Structures
 - 🐢 Under maintenance... (Coming soon!)
 
-#### 🛠️ More Projects
+#### 🛠️ More experience 
 - 🐢 Under maintenance... (Coming soon!)
 
 ## 💻 Coding Challenges
