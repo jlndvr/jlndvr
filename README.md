@@ -21,8 +21,8 @@
 - 🐢 Under maintenance...
 
 ## 💻 LeetCode & HackerRank
-[![LeetCode](https://img.shields.io/badge/LeetCode-Python_Solutions-FFA116?style=flat-square&logo=leetcode)](https://github.com/jlndvr/LeetCode)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Solutions-2EC866?style=flat-square&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
+[![LeetCode](https://img.shields.io/badge/LeetCode-_Solutions-FFA116?style=flat-square&logo=leetcode)](https://github.com/jlndvr/LeetCode)
+[![HackerRank](https://img.shields.io/badge/HackerRank-_Solutions-2EC866?style=flat-square&logo=hackerrank)](https://github.com/jlndvr/HackerRank)
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
