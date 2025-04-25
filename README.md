@@ -1,5 +1,5 @@
-## 💻 Aspiring Software Developer | CS @ UTRGV
-###### General Information: Includes academic and personal projects built during my undergraduate coursework in computer science.
+## 💻 Aspirant Software Developer | Computer Science @ UTRGV
+###### General Information: Opened academic and personal projects built during my undergraduate coursework in computer science.
 
 <table>
   <tr>
