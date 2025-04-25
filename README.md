@@ -1,6 +1,6 @@
 ## 💻 Josue Landaverde | Computer Science @ UTRGV 🤠 
 
-###### General Information: Consists of academic and personal projects built during my undergraduate coursework in computer science.
+###### General Information: This repo showcases academic and personal projects built during my undergraduate coursework.
 
 <table>
   <tr>
