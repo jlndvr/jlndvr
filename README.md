@@ -1,45 +1,30 @@
-<h1>👋 Hello, my name is Josue!</h1>
+# 👋 Hello, I'm Josue!
 
-<h3>🤠 Computer Science Student at UTRGV</h3>
+### 🤠 Computer Science Student @ UTRGV
 
-<h2>📚 Dev Portfolio: Projects and Learning</h2>
+## 🐍 Python Developer Portfolio
 
-<h3>📊 Data Management Projects</h3>
-<ul>
-  <li><a>Under maintenance...🐢</a></li>
-</ul>
+### 📂 Project Categories
 
-<h3>📡 Projects w/ API's</h3>
-<ul>
-<li><a>Under maintenance...🐢</a></li>
-</ul>
+#### 📊 Data Management Projects
+- `🐍` Under maintenance... (Coming soon!)
 
-<h3>Object-Oriented Programming</h3>
-<p>
-  <a href="https://github.com/jlndvr/Java-REPO">
-    <img src="https://img.shields.io/badge/Java_OOP-Repository-blue?logo=java" alt="Java OOP Repository">
-  </a>
-</p>
+#### 🌐 API Integrations
+- `🐍` Under maintenance... (Coming soon!)
 
-<h3>📊 Data Structures and Algorithms</h3>
-<ul>
-  <li><a>Under maintenance...🐢</a></li>
-</ul>
+#### 🧩 OOP in Python
+[![Python Projects](https://img.shields.io/badge/Explore-My_Python_Repos-3776AB?style=for-the-badge&logo=python)](https://github.com/jlndvr/Python-REPO)
 
-<h3>🔨 More Projects</h3>
-<ul>
-  <li><a>Under maintenance...🐢</a></li>
-</ul>
+#### ⚙️ Algorithms & Data Structures
+- `🐍` Under maintenance... (Coming soon!)
 
-<h2>🖥️ LeetCode and HackerRank</h2>
-<ul>
-  <li><a href="https://github.com/jlndvr/LeetCode">LeetCode</a></li>
-  <li><a href="https://github.com/jlndvr/HackerRank">HackerRank</a></li>
-</ul>
+#### 🛠️ Other Projects
+- `🐍` Under maintenance... (Coming soon!)
 
-<h2>🤳 Connect with me:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/jlndvr">
-    <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn logo"/>
-  </a>
-</p>
+## 💻 Coding Challenges
+[![LeetCode](https://img.shields.io/badge/LeetCode-Python_Solutions-FFA116?style=flat-square&logo=leetcode)](https://github.com/jlndvr/LeetCode-Python)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Solutions-2EC866?style=flat-square&logo=hackerrank)](https://github.com/jlndvr/HackerRank-Python)
+
+## 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
