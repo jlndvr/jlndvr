@@ -1,4 +1,4 @@
-## 💻 I'm Josue, a CS Student at UTRGV!
+## 💻 Josue Landaverde: Computer Science undergraduate at The University of Texas Rio Grande Valley
 
 ###### General Information: Includes academic and personal projects built during my undergraduate coursework in computer science.
 
