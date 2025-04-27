@@ -1,4 +1,4 @@
-## 💻 Josue Landaverde | CS at UTRGV 🤠 
+## 💻 Josué Obed Landaverde | CS at UTRGV 🤠 
 
 ###### General Information: This repository showcases my undergraduate programming experience. 
 
