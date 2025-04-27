@@ -1,4 +1,4 @@
-## 💻 Josue Landaverde | Computer Science @ UTRGV 🤠 
+## 💻 Josue Landaverde | Computer Science Student at UTRGV 🤠 
 
 ###### General Information: This repository showcases my programming experience as an undergraduate student. 
 
