@@ -25,7 +25,7 @@
 <details>
 <summary><b>🧩 Object Oriented Programming</b></summary>
   
-[![OOP](https://img.shields.io/badge/☕️OOP--007396?style=flat-square&logo=java&logoColor=white)](https://github.com/jlndvr/JAVAOOP)  
+[![OOP](https://img.shields.io/badge/JavaOOP--007396?style=flat-square&logo=java&logoColor=white)](https://github.com/jlndvr/JAVAOOP)  
 [![OOP](https://img.shields.io/badge/OOP--00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/jlndvr/CPPOOP)
   
 </details>
