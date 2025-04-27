@@ -26,7 +26,7 @@
 <summary><b>🧩 Object Oriented Programming</b></summary>
   
 [![Java](https://img.shields.io/badge/Java_OOP--007396?style=flat-square&logo=java)](https://github.com/jlndvr/JAVAOOP)  
-[![C++](https://img.shields.io/badge/C++_OOP--00599C?style=flat-square&logo=c%2B%2B)](https://github.com/jlndvr/CPPOOP)
+[![C++](https://img.shields.io/badge/OOP--00599C?style=flat-square&logo=c%2B%2B)](https://github.com/jlndvr/CPPOOP)
   
 </details>
 
