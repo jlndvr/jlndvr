@@ -10,28 +10,38 @@
 
 <details>
 <summary><b>📊 Data Management</b></summary> 
+  
   🐢 under maintenance...
+  
 </details>
 
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
+  
   🐢 under maintenance...
+  
 </details>
 
 <details>
 <summary><b>🧩 Object Oriented Programming</b></summary>
+  
 - [![Java](https://img.shields.io/badge/Java_OOP--007396?style=flat-square&logo=java)](https://github.com/jlndvr/Java-REPO)  
 - [![C++](https://img.shields.io/badge/C++_OOP--00599C?style=flat-square&logo=c%2B%2B)]()
+  
 </details>
 
 <details>
 <summary><b>⚙️ Data Structures & Algorithms</b></summary> 
+  
   🐢 under maintenance...
+  
 </details>
 
 <details>
 <summary><b>🛠️ More Development Experience</b></summary> 
+  
   🐢 under maintenance...
+  
 </details>
     </td>
     <td valign="top" width="40%">
