@@ -33,7 +33,6 @@
 <summary><b>🛠️ More Development Experience</b></summary> 
   🐢 under maintenance...
 </details>
-
     </td>
     <td valign="top" width="40%">
     
