@@ -1,6 +1,6 @@
 ## 💻 Josue Landaverde | Computer Science Student at UTRGV 🤠 
 
-###### General Information: This repository showcases my programming experience as an undergraduate. 
+###### General Information: This repository showcases my undergraduate programming experience. 
 
 <table>
   <tr>
