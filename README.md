@@ -22,15 +22,14 @@
 
 </details>
 
-#### ⚙️ Data Structures & Algorithms 
-- 🐢 under maintenance... 
-
-#### 🛠️ More Development Experience 
-- 🐢 under maintenance...
+<details>
+<summary><b>⚙️ Data Structures & Algorithms</b></summary> 
+  🐢 under maintenance...
+</details>
 
 <details>
 <summary><b>🛠️ More Development Experience</b></summary> 
-- 🐢 under maintenance...
+  🐢 under maintenance...
 </details>
     </td>
     <td valign="top" width="40%">
