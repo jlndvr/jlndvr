@@ -8,8 +8,10 @@
     
 ## 📕 Dev Portfolio: Projects and Learning
 
-#### 📊 Data Management Projects
-- 🐢 under maintenance...
+<details>
+<summary><b>📊 Data Management</b></summary> 
+  🐢 under maintenance...
+</details>
 
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
@@ -31,6 +33,7 @@
 <summary><b>🛠️ More Development Experience</b></summary> 
   🐢 under maintenance...
 </details>
+
     </td>
     <td valign="top" width="40%">
     
