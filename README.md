@@ -6,7 +6,7 @@
   <tr>
     <td valign="top" width="60%">
     
-## 📕 Dev Portfolio: Projects and Learning
+## 📕 Dev Portfolio: Projects & Learning
 
 <details>
 <summary><b>📊 Data Management</b></summary> 
