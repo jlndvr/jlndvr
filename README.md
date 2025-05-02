@@ -51,7 +51,7 @@
 
 ## 🖥️ LeetCode & HackerRank
 [![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jlndvr/)
-[![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/jlndvr/hackos)
+[![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jlndvr)
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
