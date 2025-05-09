@@ -31,11 +31,11 @@
 </details>
 
 <details>
-<summary><b>⚙️ Data Structures & Algorithms</b></summary> 
-  
-[2D Arrays: Image Manipulation (Java)](https://github.com/jlndvr/2dArraysImageManipulationProject)
-[Desert Island Playlist (Java)](https://github.com/jlndvr/desertIslandPlaylist)
-  
+<summary><b>⚙️ Data Structures & Algorithms</b></summary>  
+
+[2D Arrays: Image Manipulation (Java)](https://github.com/jlndvr/2dArraysImageManipulationProject)  
+[Desert Island Playlist (Java)](https://github.com/jlndvr/desertIslandPlaylist)  
+
 </details>
 
 <details>
