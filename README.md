@@ -1,6 +1,7 @@
 ## 💻 Josué Obed Landaverde | CS at UTRGV 🤠 
 
 ###### General Information: This repository showcases my undergraduate and independent programming experience.
+###### Technical Languages: C++ Java
 
 <table>
   <tr>
