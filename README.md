@@ -37,7 +37,7 @@
 [2D Arrays: Image Manipulation (Java)](https://github.com/jlndvr/2dArraysImageManipulationProject)  
 [Desert Island Playlist (Java)](https://github.com/jlndvr/desertIslandPlaylist)  
 [Whale Talk (C++)](https://github.com/jlndvr/whaleTalk)  
-[Auto-completer](https://github.com/jlndvr/autocompleter)
+[Autocompleter (C++)](https://github.com/jlndvr/autocompleter)
 
 </details>
 
