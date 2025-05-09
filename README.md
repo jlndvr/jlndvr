@@ -10,9 +10,10 @@
 
 <details>
 <summary><b>📊 Data Management</b></summary> 
-  
-  🐢 under maintenance...
-  
+
+[Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
+[Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
+
 </details>
 
 <details>
