@@ -13,6 +13,7 @@
 
 [Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
 [Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
+[Designing a Departmental Dashboard](https://github.com/jlndvr/departmentalDashboard)
 
 </details>
 
