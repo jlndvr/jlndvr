@@ -33,33 +33,33 @@
 <details>
 <summary><b>⚙️ Data Structures & Algorithms</b></summary> 
   
-  🐢 under maintenance...
+[2D Arrays: Image Manipulation (Java)](https://github.com/jlndvr/2dArraysImageManipulationProject)
+[Desert Island Playlist (Java)](https://github.com/jlndvr/desertIslandPlaylist)
   
 </details>
 
 <details>
 <summary><b>🛠️ More Development Experience</b></summary> 
 
-[Tic Tac Toe](https://github.com/jlndvr/tic-tac-toe)  
-[Rock Paper Scissors Lizard Spock](https://github.com/jlndvr/rockPaperScissorsLizardSpock)  
-[Dog Years](https://github.com/jlndvr/dogYears)  
+[Tic Tac Toe (C++)](https://github.com/jlndvr/tic-tac-toe)  
+[Rock Paper Scissors Lizard Spock (C++)](https://github.com/jlndvr/rockPaperScissorsLizardSpock)  
+[Dog Years (C++)](https://github.com/jlndvr/dogYears)  
 [Fizz Buzz](https://github.com/jlndvr/fizzBuzz)  
-[Quadratic Formula](https://github.com/jlndvr/quadraticFormula)  
-[Piggy Bank](https://github.com/jlndvr/quadraticFormula)  
-[Magic 8-Ball](https://github.com/jlndvr/magic8-Ball)  
-[The Harry Potter Sorting Hat](https://github.com/jlndvr/harryPotterSortingHatQuiz)  
-[Text Adventure](https://github.com/jlndvr/textAdventure)  
-[Whale Talk](https://github.com/jlndvr/whaleTalk)  
-[Planting a Tree](https://github.com/jlndvr/plantingATree)  
-[Java Variables: Mad Libs](https://github.com/jlndvr/Java-Variables-MadLibs)  
-[Math Magic](https://github.com/jlndvr/mathMagic)  
-[A Basic Calculator](https://github.com/jlndvr/aBasicCalculator)  
-[Build a Droid](https://github.com/jlndvr/buildADroid)  
-[Car Loan Payment Calculator](https://github.com/jlndvr/CarLoanPaymentCalculator)  
-[Continents and Cities](https://github.com/jlndvr/ContinentsandCities)  
-[Desert Island Playlist](https://github.com/jlndvr/desertIslandPlaylist)  
-[The Prime Directive](https://github.com/jlndvr/thePrimeDirective)  
-[DNA Sequencing](https://github.com/jlndvr/DNAsequencing)
+[Quadratic Formula (C++)](https://github.com/jlndvr/quadraticFormula)  
+[Piggy Bank (C++)](https://github.com/jlndvr/quadraticFormula)  
+[Magic 8-Ball (C++)](https://github.com/jlndvr/magic8-Ball)  
+[The Harry Potter Sorting Hat (C++)](https://github.com/jlndvr/harryPotterSortingHatQuiz)  
+[Text Adventure (C++)](https://github.com/jlndvr/textAdventure)  
+[Whale Talk (C++)](https://github.com/jlndvr/whaleTalk)  
+[Planting a Tree (Java)](https://github.com/jlndvr/plantingATree)  
+[Java Variables: Mad Libs (Java)](https://github.com/jlndvr/Java-Variables-MadLibs)  
+[Math Magic (Java)](https://github.com/jlndvr/mathMagic)  
+[A Basic Calculator (Java)](https://github.com/jlndvr/aBasicCalculator)  
+[Build a Droid (Java)](https://github.com/jlndvr/buildADroid)  
+[Car Loan Payment Calculator (Java)](https://github.com/jlndvr/CarLoanPaymentCalculator)  
+[Continents and Cities (Java)](https://github.com/jlndvr/ContinentsandCities)  
+[The Prime Directive (Java)](https://github.com/jlndvr/thePrimeDirective)  
+[DNA Sequencing (Java)](https://github.com/jlndvr/DNAsequencing)
 
 </details>
     </td>
