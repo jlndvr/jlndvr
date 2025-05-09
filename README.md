@@ -50,6 +50,16 @@
 [The Harry Potter Sorting Hat](https://github.com/jlndvr/harryPotterSortingHatQuiz)
 [Text Adventure](https://github.com/jlndvr/textAdventure)
 [Whale Talk](https://github.com/jlndvr/whaleTalk)
+[Planting a Tree](https://github.com/jlndvr/plantingATree)
+[Java Variables: Mad Libs](https://github.com/jlndvr/Java-Variables-MadLibs)
+[Math Magic](https://github.com/jlndvr/mathMagic)
+[A Basic Calculator](https://github.com/jlndvr/aBasicCalculator)
+[Build a Droid](https://github.com/jlndvr/buildADroid)
+[Car Loan Payment Calculator](https://github.com/jlndvr/CarLoanPaymentCalculator)
+[Continents and Cities](https://github.com/jlndvr/ContinentsandCities)
+[Desert Island Playlist](https://github.com/jlndvr/desertIslandPlaylist)
+[The Prime Directive](https://github.com/jlndvr/thePrimeDirective)
+[DNA Sequencing](https://github.com/jlndvr/DNAsequencing)
 
 </details>
     </td>
