@@ -44,6 +44,13 @@
 [Rock Paper Scissors Lizard Spock](https://github.com/jlndvr/rockPaperScissorsLizardSpock)
 [Dog Years](https://github.com/jlndvr/dogYears)
 [Fizz Buzz](https://github.com/jlndvr/fizzBuzz)
+[Quadratic Formula](https://github.com/jlndvr/quadraticFormula)
+[Piggy Bank](https://github.com/jlndvr/quadraticFormula)
+[Magic 8-Ball](https://github.com/jlndvr/magic8-Ball)
+[The Harry Potter Sorting Hat](https://github.com/jlndvr/harryPotterSortingHatQuiz)
+[Text Adventure](https://github.com/jlndvr/textAdventure)
+[Whale Talk](https://github.com/jlndvr/whaleTalk)
+
 </details>
     </td>
     <td valign="top" width="40%">
