@@ -39,9 +39,11 @@
 
 <details>
 <summary><b>🛠️ More Development Experience</b></summary> 
-  
-  🐢 under maintenance...
-  
+
+[Tic Tac Toe](https://github.com/jlndvr/tic-tac-toe)
+[Rock Paper Scissors Lizard Spock](https://github.com/jlndvr/rockPaperScissorsLizardSpock)
+[Dog Years](https://github.com/jlndvr/dogYears)
+[Fizz Buzz](https://github.com/jlndvr/fizzBuzz)
 </details>
     </td>
     <td valign="top" width="40%">
