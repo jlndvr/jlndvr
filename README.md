@@ -35,6 +35,7 @@
 
 [2D Arrays: Image Manipulation (Java)](https://github.com/jlndvr/2dArraysImageManipulationProject)  
 [Desert Island Playlist (Java)](https://github.com/jlndvr/desertIslandPlaylist)  
+[Whale Talk (C++)](https://github.com/jlndvr/whaleTalk)  
 
 </details>
 
@@ -50,7 +51,6 @@
 [Magic 8-Ball (C++)](https://github.com/jlndvr/magic8-Ball)  
 [The Harry Potter Sorting Hat (C++)](https://github.com/jlndvr/harryPotterSortingHatQuiz)  
 [Text Adventure (C++)](https://github.com/jlndvr/textAdventure)  
-[Whale Talk (C++)](https://github.com/jlndvr/whaleTalk)  
 [Planting a Tree (Java)](https://github.com/jlndvr/plantingATree)  
 [Java Variables: Mad Libs (Java)](https://github.com/jlndvr/Java-Variables-MadLibs)  
 [Math Magic (Java)](https://github.com/jlndvr/mathMagic)  
