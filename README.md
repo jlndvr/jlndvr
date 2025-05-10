@@ -13,7 +13,7 @@
 <summary><b>🛠️ Software Development</b></summary> 
 
 [Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
-[Network Packet Processing (C++)](https://github.com/jlndvr/networkPacketProcessing)
+[Network Packet Processing (C++)](https://github.com/jlndvr/networkPacketProcessing)  
 [Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
 [Designing a Departmental Dashboard (C++)](https://github.com/jlndvr/departmentalDashboard)  
 [Tic Tac Toe (C++)](https://github.com/jlndvr/tic-tac-toe)  
@@ -36,6 +36,7 @@
 [DNA Sequencing (Java)](https://github.com/jlndvr/DNAsequencing)
 
 </details>
+
 
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
