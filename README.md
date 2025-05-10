@@ -16,6 +16,7 @@
 [Network Packet Processing (C++)](https://github.com/jlndvr/networkPacketProcessing)  
 [Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
 [Designing a Departmental Dashboard (C++)](https://github.com/jlndvr/departmentalDashboard)  
+[Custom Robotics Toolkit (C++)](https://github.com/jlndvr/customRoboticsToolkit)  
 [Tic Tac Toe (C++)](https://github.com/jlndvr/tic-tac-toe)  
 [Rock Paper Scissors Lizard Spock (C++)](https://github.com/jlndvr/rockPaperScissorsLizardSpock)  
 [Dog Years (C++)](https://github.com/jlndvr/dogYears)  
@@ -36,7 +37,6 @@
 [DNA Sequencing (Java)](https://github.com/jlndvr/DNAsequencing)
 
 </details>
-
 
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
