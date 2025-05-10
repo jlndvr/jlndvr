@@ -15,7 +15,6 @@
 [Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
 [Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
 [Designing a Departmental Dashboard (C++)](https://github.com/jlndvr/departmentalDashboard)
-
 [Tic Tac Toe (C++)](https://github.com/jlndvr/tic-tac-toe)  
 [Rock Paper Scissors Lizard Spock (C++)](https://github.com/jlndvr/rockPaperScissorsLizardSpock)  
 [Dog Years (C++)](https://github.com/jlndvr/dogYears)  
