@@ -7,7 +7,7 @@
   <tr>
     <td valign="top" width="60%">
     
-## 📕 Dev Portfolio: Projects & Learning
+## 📕 Dev. Portfolio: Projects & Learning
 
 <details>
 <summary><b>🛠️ Software Development</b></summary> 
