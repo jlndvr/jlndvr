@@ -41,7 +41,7 @@
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
   
-  🐢 under maintenance...
+  🐢 coming soon...
   
 </details>
 
