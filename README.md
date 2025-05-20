@@ -75,3 +75,5 @@
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jlndvr)
 [![GitHub](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
