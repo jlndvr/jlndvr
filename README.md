@@ -41,8 +41,8 @@
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
 
-  [Boots Boutique](https://github.com/jlndvr/bootBoutiqueAPI)
-  [Travel Adventures](https://github.com/jlndvr/travelAdventuresAPI)
+  [Boots Boutique (Java)](https://github.com/jlndvr/bootBoutiqueAPI)  
+  [Travel Adventures (Java)](https://github.com/jlndvr/travelAdventuresAPI))  
   
 </details>
 
