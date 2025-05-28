@@ -40,8 +40,9 @@
 
 <details>
 <summary><b>🌐 API Integrations</b></summary> 
-  
-  🐢 coming soon...
+
+  [Boots Boutique](https://github.com/jlndvr/bootBoutiqueAPI)
+  [Travel Adventures](https://github.com/jlndvr/travelAdventuresAPI)
   
 </details>
 
