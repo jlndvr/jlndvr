@@ -1,7 +1,7 @@
-## Josué Landaverde | CS Student @ UTRGV 🤠 
+## Josué L. | CS Student @ UTRGV 🤠 
 
 ###### General Information: This repository showcases my undergraduate and independent programming experience.
-###### Programming Languages: C++ Java
+###### Programming languages: C++ Java
 
 <table>
   <tr>
