@@ -11,7 +11,8 @@
 
 <details>
 <summary><b>🛠️ Software Development</b></summary> 
-
+[Grocery Store (C)]()  
+[Month/Day/Year (C)]()  
 [Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
 [Network Packet Processing (C++)](https://github.com/jlndvr/networkPacketProcessing)  
 [Memory Managed Restaurant Reservations (C++)](https://github.com/jlndvr/memory-ManagedRestaurantReservations)  
