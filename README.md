@@ -12,7 +12,8 @@
 <details>
 <summary><b>🛠️ Software Development</b></summary> 
   
-[Grocery Store (C)](https://github.com/jlndvr/groceryStore)  
+[Grocery Store (C)](https://github.com/jlndvr/groceryStore) 
+[String Copier (C)](https://github.com/jlndvr/stringCopier)
 [Month/Date/Year (C)](https://github.com/jlndvr/monthDateYear)  
 [Anagram Finder (C)](https://github.com/jlndvr/anagrams)  
 [Library Management System (C++)](https://github.com/jlndvr/libraryManagementSystem)  
