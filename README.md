@@ -13,6 +13,7 @@
 <summary><b>🛠️ Software Development</b></summary> 
   
 [Grocery Store (C)](https://github.com/jlndvr/groceryStore) 
+[Mini Calendar (C)](https://github.com/jlndvr/miniCalendar)
 [String Copier (C)](https://github.com/jlndvr/stringCopier)
 [Month/Date/Year (C)](https://github.com/jlndvr/monthDateYear)  
 [Anagram Finder (C)](https://github.com/jlndvr/anagrams)  
