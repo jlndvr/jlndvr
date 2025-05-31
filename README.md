@@ -1,7 +1,7 @@
 ## Josué L. | CS Student @ UTRGV 🤠 
 
 ###### General information: This repository showcases my undergraduate and independent programming experience
-###### Programming languages: C/C++ Java
+###### Programming languages: C C++ Java
 
 <table>
   <tr>
