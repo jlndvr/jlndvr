@@ -1,7 +1,7 @@
 ## Josué | CS @ UTRGV 🤠 
 
 ###### General information: This repository showcases my undergraduate and independent programming experience
-###### Programming languages: Bash/Shell C C++ Java Python HTML & CSS
+###### Programming languages: C/C++ Java Shell
 
 <table>
   <tr>
