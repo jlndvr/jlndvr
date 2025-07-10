@@ -70,11 +70,6 @@
 
 </details>
 
-<details>
-<summary><b>Direct source code for my GitHub</b></summary>
-  
-</details>
-
 </td>
 <td width="40%" valign="top">
 
