@@ -84,7 +84,7 @@
 
 ## 🖥️ LeetCode & HackerRank
 
-[![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jlndvr/)
+[![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/dillonAKAjlndvr/)
 [![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jlndvr)
 
 ## 🤝 Connect
