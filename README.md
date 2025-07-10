@@ -1,4 +1,4 @@
-## Josué | CS @ UTRGV 🤠 
+## Josué | V's up!🤠 
 
 ###### General information: This repository showcases my undergraduate and independent programming practice.
 ###### Programming languages: C/C++ Java Bash
