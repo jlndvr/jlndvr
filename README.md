@@ -75,6 +75,9 @@
   
 </details>
 
+</td>
+<td width="40%" valign="top">
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical&hide_title=true)
