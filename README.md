@@ -1,6 +1,6 @@
 ## Josué | 🤠 
 
-###### General information: This repository showcases my undergraduate and independent programming practice.
+###### General information: This repository showcases my undergraduate/independent programming practice and learning.
 ###### Programming languages: C/C++ Java Bash
 
 <table>
