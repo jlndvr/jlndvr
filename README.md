@@ -1,4 +1,4 @@
-## Josué | V's up!🤠 
+## Josué | 🤠 
 
 ###### General information: This repository showcases my undergraduate and independent programming practice.
 ###### Programming languages: C/C++ Java Bash
