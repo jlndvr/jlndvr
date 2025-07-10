@@ -75,15 +75,19 @@
   
 </details>
 
-    </td>
-    <td valign="top" width="40%">
-    
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlndvr&show_icons=true&theme=radical&hide_title=true)
 
 ## 🖥️ LeetCode & HackerRank
-[![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jlndvr/)
-[![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jlndvr)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/jlndvr)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jlndvr)
 
 ## 🤝 Connect
-[![GitHub](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jlndvr)
+
+</td>
+  </tr>
+</table>
