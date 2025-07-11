@@ -2,13 +2,14 @@
 
 ###### Urgent message: GitHub will not continue to recieve uploads. I’ll be publishing my work on a personal website that is in progress.
 ###### General information: This repository showcases my undergraduate/independent programming practice and learning.
-###### Programming languages: C/C++ Java Bash
 
 <table>
   <tr>
     <td valign="top" width="60%">
     
 ## 📕 Dev. Portfolio: Projects & Learning
+
+###### Programming languages: C/C++ Java Bash
 
 <details>
 <summary><b>🛠️ Software Development</b></summary>  
