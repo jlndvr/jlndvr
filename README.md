@@ -1,5 +1,6 @@
 ## Josué | 🤠 
 
+###### Urgent message: GitHub will not continue to recieve uploads. I’ll be publishing my work on a personal website that is in progress.
 ###### General information: This repository showcases my undergraduate/independent programming practice and learning.
 ###### Programming languages: C/C++ Java Bash
 
